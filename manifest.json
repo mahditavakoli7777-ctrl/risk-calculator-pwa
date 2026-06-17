@@ -2,7 +2,7 @@
   "name": "Risk Calculator Pro",
   "short_name": "ریسک",
   "description": "ماشین حساب ریسک معاملات",
-  "start_url": "./risk-calculator-mobile.html",
+  "start_url": "/index.html"
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
